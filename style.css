@@ -2,9 +2,14 @@ body {
     background-color:#EDDCD2;
 }
 
+.header {
+	text-align: center;
+}
+
+
  .nome-font {
      font-family: 'Roboto', sans-serif;
-     text-align: justify;
+     margin: auto;
  }
 
  strong {
@@ -14,4 +19,26 @@ body {
 
  #souEu {
      border-radius: 100%;
+		 float: left;
+		 width: 200px;
+		 padding: 10px;
+		 background-color: #B7B7A4;
+		 
  }
+
+ .header-content {
+	 text-align: justify;
+	 padding: 10px;
+ }
+
+ .description {
+	 position: absolute;
+	 padding: 10pxs;
+	 margin 10px;
+	 float: right;
+ }
+
+ ul.skills-list li:nth-child(odd){
+	 background-color: #FFF1E6 ;
+ }
+ 
