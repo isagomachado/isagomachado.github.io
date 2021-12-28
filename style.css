@@ -19,7 +19,7 @@ body {
 
  #souEu {
      border-radius: 100%;
-		 float: left;
+		 /* float: left; */
 		 width: 200px;
 		 padding: 10px;
 		 background-color: #B7B7A4;
@@ -32,7 +32,7 @@ body {
  }
 
  .description {
-	 position: absolute;
+	 /* position: absolute; */
 	 padding: 10pxs;
 	 margin 10px;
 	 float: right;
