@@ -1,0 +1,53 @@
+body {
+  background-color:#EDDCD2;
+}
+
+header {
+	text-align: center;
+}
+
+#souEu {
+	border-radius: 100%;
+	width: 200px;
+	padding: 5px;
+	background-color: #B7B7A4;
+}
+
+#about {
+
+
+}
+
+.bouth{
+	display: flex;
+	flex-direction: row;
+	max-width: 45%;
+}
+
+
+.nome-font {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+}
+
+span {
+  color: #CB997E;
+  font-weight: 600;
+}
+
+.header-content {
+	text-align: justify;
+	padding: 10px;
+}
+
+.description {
+	/* position: absolute; */
+	padding: 10pxs;
+	margin 10px;
+	float: right;
+}
+
+ul.skills-list li:nth-child(odd){
+	background-color: #FFF1E6 ;
+}
+ 
